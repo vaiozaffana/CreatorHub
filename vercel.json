@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "src/app/api/upload/route.ts": {
+      "maxDuration": 300,
+      "memory": 2048
+    }
+  }
+}
